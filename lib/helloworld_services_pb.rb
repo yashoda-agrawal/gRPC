@@ -4,7 +4,7 @@
 require 'grpc'
 require 'helloworld_pb'
 
-module Greeting
+module Helloworld
   module Greeter
     # The greeting service definition.
     class Service
